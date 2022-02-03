@@ -1,0 +1,27 @@
+.how-it-works {
+  width: 500px;
+  height: 220px;
+  box-shadow: 0 0 15px rgb(0 0 0 / 20%);
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  background-color: whitesmoke;
+  align-items: center;
+}
+
+.card {
+  height: 150px;
+  width: 200px;
+  border: 1px solid black;
+  margin: 10px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.card h3 {
+  font-size: 14px;
+}
+
+.card p {
+  font-size: 11px;
+}

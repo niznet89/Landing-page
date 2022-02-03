@@ -1,0 +1,21 @@
+.footer {
+  background-color: #2C2B2B;
+  width: 490px;
+  height: 100px;
+  margin: 0 auto;
+  color: white;
+  text-align: center;
+  padding: 10px;
+
+}
+
+.footer li {
+  margin: 0;
+  display: inline;
+  list-style-type: none;
+  padding: 5px;
+}
+
+.footer > li {
+  /*display: inline-block;*/
+}
