@@ -1,8 +1,8 @@
 .banner {
   width: 500px;
-  height: 400px;
+  height: 450px;
   margin: 0 auto;
-  box-shadow: 0 0 15px rgb(0 0 0 / 20%);
+  box-shadow: 0 0 5px rgb(0 0 0 / 20%);
   background-color: whitesmoke;
   /* display: flex;
   justify-content: center;
@@ -19,8 +19,13 @@
 .banner-objects {
   text-align: center;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   flex-direction: column;
-  height: 100%;
+  height: 95%;
+
+}
+
+.banner-objects h1 {
+  margin: 0;
 }
